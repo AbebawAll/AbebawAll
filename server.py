@@ -1,1 +1,1 @@
-l
+console.log("write");
